@@ -49,25 +49,36 @@ Hambatan dapat diatasi dengan komunikasi aktif dan penerapan workflow Git yang j
 sehingga menghasilkan proyek terintegrasi, bukan sekadar kumpulan hasil individu.  
 
 ---
-
 ## 📷 Tampilan Aplikasi (Preview)
-Login Form
-<img width="836" height="496" alt="image" src="https://github.com/user-attachments/assets/c2c635a0-5cfe-4c96-a279-0f240b9ef3b8" />
 
-Riwayat Transaksi
-<img width="900" height="475" alt="image" src="https://github.com/user-attachments/assets/6d4e4614-228b-41b9-8f08-9f85068f00f7" />
+Berikut adalah beberapa tampilan dari aplikasi **Rumah Laundry**:
 
-Manajement Karyawan
-<img width="900" height="472" alt="image" src="https://github.com/user-attachments/assets/8c1a5d93-a9dc-4259-a3cc-25d5e11afba9" />
-
-Daftar Paket 
-<img width="900" height="474" alt="image" src="https://github.com/user-attachments/assets/58f37865-4611-4ed8-b713-79acb259ecf7" />
-
-Invoice
-<img width="709" height="602" alt="image" src="https://github.com/user-attachments/assets/81767075-ff2d-48d5-938c-aeedd41b9661" />
-
-Cetak Invoice
-<img width="648" height="608" alt="image" src="https://github.com/user-attachments/assets/18e9406c-ff75-4fbb-bc6b-9e2bd3b46961" />
+<table>
+  <tr>
+    <td align="center"><b>Login Form</b></td>
+    <td align="center"><b>Riwayat Transaksi</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c2c635a0-5cfe-4c96-a279-0f240b9ef3b8" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6d4e4614-228b-41b9-8f08-9f85068f00f7" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Manajemen Karyawan</b></td>
+    <td align="center"><b>Daftar Paket</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8c1a5d93-a9dc-4259-a3cc-25d5e11afba9" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/58f37865-4611-4ed8-b713-79acb259ecf7" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Invoice</b></td>
+    <td align="center"><b>Cetak Invoice</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/81767075-ff2d-48d5-938c-aeedd41b9661" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/18e9406c-ff75-4fbb-bc6b-9e2bd3b46961" width="400"/></td>
+  </tr>
+</table>
 
 ---
 
